@@ -249,6 +249,7 @@
 	<set>LART</set>
 	<set>LCGX-Alt</set>
 	<set>PRC1-Alt</set>
+	<set>YAP1-Alt</set>
 </format>
 
 <format><label>Unreleased</label>
