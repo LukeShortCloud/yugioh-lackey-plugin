@@ -7,18 +7,24 @@ This is a modern fork of the original [Yu-Gi-Oh! plugin for LackeyCCG](https://l
 **TABLE OF CONTENTS**
 
 - [Changes](#changes)
-  - [Breaking Changes](#breaking-changes)
-  - [Non-Breaking Changes](#non-breaking-changes)
-      - [Case-Sensitive File Names](#case-sensitive-file-names)
+    - [Breaking Changes](#breaking-changes)
+    - [Non-Breaking Changes](#non-breaking-changes)
+        - [Case-Sensitive File Names](#case-sensitive-file-names)
 
 
 ## Changes
 
+These are changes between the LukeShortCloud fork and the original plugin.
+
 
 ### Breaking Changes
 
+Existing decks may be broken with the changes listed here. Old and new card names are provided to help with the manual transition that is required by end-users.
+
 
 ### Non-Breaking Changes
+
+Existing decks will continue to work as-is with the changes listed here.
 
 
 #### Case-Sensitive File Names
