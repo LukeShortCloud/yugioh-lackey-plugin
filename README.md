@@ -8,6 +8,7 @@ This is a modern fork of the original [Yu-Gi-Oh! plugin for LackeyCCG](https://l
 
 - [Changes](#changes)
     - [Breaking Changes](#breaking-changes)
+        - [Existing Alternative Artwork](#existing-alternative-artwork)
     - [Non-Breaking Changes](#non-breaking-changes)
         - [Case-Sensitive File Names](#case-sensitive-file-names)
 
@@ -20,6 +21,35 @@ These are changes between the LukeShortCloud fork and the original plugin.
 ### Breaking Changes
 
 Existing decks may be broken with the changes listed here. Old and new card names are provided to help with the manual transition that is required by end-users.
+
+
+#### Existing Alternative Artwork
+
+The following changes have been made to improve existing and upcoming alternative artwork cards:
+- Set changes. Alternative artwork cards are now listed from real sets instead of a fake "ALT" set.
+    - Except for the Lost Art "LART" set.
+- 1st edition artwork added. Some cards did not feature their actual 1st edition artwork.
+- Unused card images have been removed. Some cards had two image files for the same card.
+    - The best quality variant was kept.
+- New standard for naming alternative artwork cards. "Alt Art NUMBER" describes which exact alternative artwork it is (some cards have more than one).
+- Japanse artwork shown on English text cards has been renamed to "Uncensored". These usually from official Asian-English sets.
+
+| Old Card Name | New Card Name |
+| ------------- | ------------- |
+| | Blue-Eyes White Dragon |
+| Blue-Eyes White Dragon | Blue-Eyes White Dragon (Alt Art 4) |
+| Cyber Dragon (Alt) | Cyber Dragon (Alt Art 1) |
+| Cyber End Dragon (Alt) | Cyber End Dragon (Alt Art 1) |
+| Elemental HERO Avian (Alt) | Elemental HERO Avian (Alt Art 1) |
+| Elemental HERO Burstinatrix (Alt) | Elemental HERO Burstinatrix (Alt Art 1) |
+| Elemental HERO Sparkman (Alt) | Elemental HERO Sparkman (Alt Art 1) |
+| Foolish Burial (J) | Foolish Burial (Uncensored) |
+| | Gyakutenno Megami |
+| Gyakutenno Megami | Gyakutenno Megami (Alt Art 1) |
+| Monster Reborn (J) | Monster Reborn (Uncensored) |
+| Number 34: Terror-Byte (Alt) | Number 34: Terror-Byte (Alt Art 1) |
+| | Red-Eyes B. Dragon |
+| Red-Eyes B. Dragon | Red-Eyes B. Dragon (Alt Art 3) |
 
 
 ### Non-Breaking Changes
