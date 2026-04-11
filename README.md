@@ -36,20 +36,74 @@ The following changes have been made to improve existing and upcoming alternativ
 
 | Old Card Name | New Card Name |
 | ------------- | ------------- |
+| Airknight Parshath (B) | Airknight Parshath |
+| Ancient Gear Knight (B) | Ancient Gear Knight |
+| Ape Fighter (B) | Ape Fighter |
+| Battle Fader (B) | Battle Fader |
+| Bazoo the Soul-Eater (B) | Bazoo the Soul-Eater |
+| Big Bang Shot (B) | Big Bang Shot |
+| Big Shield Gardna (B) | Big Shield Gardna |
+| Blizzard Dragon (B) | Blizzard Dragon |
 | | Blue-Eyes White Dragon |
 | Blue-Eyes White Dragon | Blue-Eyes White Dragon (Alt Art 4) |
+| Book of Moon (B) | Book of Moon |
+| Botanical Lion (B) | Botanical Lion |
+| Card Trooper (B) | Card Trooper |
+| Chiron the Mage (B) | Chiron the Mage |
+| Cyber Dragon (B) | Cyber Dragon |
 | Cyber Dragon (Alt) | Cyber Dragon (Alt Art 1) |
 | Cyber End Dragon (Alt) | Cyber End Dragon (Alt Art 1) |
+| Cyber Jar (B) | Cyber Jar |
+| Cyber Valley (B) | Cyber Valley |
+| Damage Gate (B) | Damage Gate |
+| Dark Resonator (B) | Dark Resonator |
+| Des Mosquito (B) | Des Mosquito |
+| Doomcaliber Knight (B) | Doomcaliber Knight |
+| Drillroid (B) | Drillroid |
+| Ego Boost (B) | Ego Boost |
 | Elemental HERO Avian (Alt) | Elemental HERO Avian (Alt Art 1) |
 | Elemental HERO Burstinatrix (Alt) | Elemental HERO Burstinatrix (Alt Art 1) |
 | Elemental HERO Sparkman (Alt) | Elemental HERO Sparkman (Alt Art 1) |
+| Fighting Spirit (B) | Fighting Spirit |
 | Foolish Burial (J) | Foolish Burial (Uncensored) |
+| Forbidden Chalice (B) | Forbidden Chalice |
+| Forbidden Lance (B) | Forbidden Lance |
+| Fortress Warrior (B) | Fortress Warrior |
+| Gene-Warped Warwolf (B) | Gene-Warped Warwolf |
+| Gilasaurus (B) | Gilasaurus |
+| Goblin Attack Force (B) | Goblin Attack Force |
+| Goblin Elite Attack Force (B) | Goblin Elite Attack Force |
+| Graceful Charity (B) | Graceful Charity |
 | | Gyakutenno Megami |
 | Gyakutenno Megami | Gyakutenno Megami (Alt Art 1) |
+| Gyroid (B) | Gyroid |
+| Helping Robo for Combat (B) | Helping Robo for Combat |
+| Horn of the Unicorn (B) | Horn of the Unicorn |
+| Hyper Hammerhead (B) | Hyper Hammerhead |
+| Injection Fairy Lily (B) | Injection Fairy Lily |
+| Krebons (B) | Krebons |
+| Luster Dragon (B) | Luster Dragon |
+| Metal Reflect Slime (B) | Metal Reflect Slime |
+| Miracle's Wake (B) | Miracle's Wake |
 | Monster Reborn (J) | Monster Reborn (Uncensored) |
 | Number 34: Terror-Byte (Alt) | Number 34: Terror-Byte (Alt Art 1) |
+| Pitch-Black Warwolf (B) | Pitch-Black Warwolf |
+| Pot of Greed (B) | Pot of Greed |
+| Premature Burial (B) | Premature Burial |
+| Prideful Roar (B) | Prideful Roar |
+| Reckless Greed (B) | Reckless Greed |
 | | Red-Eyes B. Dragon |
 | Red-Eyes B. Dragon | Red-Eyes B. Dragon (Alt Art 3) |
+| Slate Warrior (B) | Slate Warrior |
+| Super Conductor Tyranno (B) | Super Conductor Tyranno |
+| Tanngrisnir of the Nordic Beasts (B) | Tanngrisnir of the Nordic Beasts |
+| The Tricky (B) | The Tricky |
+| Toon Gemini Elf (B) | Toon Gemini Elf |
+| Twin-Sword Marauder (B) | Twin-Sword Marauder |
+| White Night Dragon (B) | White Night Dragon |
+| Windstorm of Etaqua (B) | Windstorm of Etaqua |
+| Zolga (B) | Zolga |
+| Zombyra the Dark (B) | Zombyra the Dark |
 
 
 ### Non-Breaking Changes
