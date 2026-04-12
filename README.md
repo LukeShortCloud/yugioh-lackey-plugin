@@ -39,6 +39,7 @@ The following changes have been made to improve existing and upcoming alternativ
 | Airknight Parshath (B) | Airknight Parshath |
 | Ancient Gear Knight (B) | Ancient Gear Knight |
 | Ape Fighter (B) | Ape Fighter |
+| Autonomus Action Unit (B) | Autonomous Action Unit (B) |
 | Battle Fader (B) | Battle Fader |
 | Bazoo the Soul-Eater (B) | Bazoo the Soul-Eater |
 | Big Bang Shot (B) | Big Bang Shot |
