@@ -31,7 +31,9 @@ The following changes have been made to improve existing and upcoming alternativ
 - 1st edition artwork added. Some cards did not feature their actual 1st edition artwork.
 - Unused card images have been removed. Some cards had two image files for the same card.
     - The best quality variant was kept.
-- New standard for naming alternative artwork cards. "Alt Art NUMBER" describes which exact alternative artwork it is (some cards have more than one).
+- New standard for naming conventions.
+    - "Alt Art NUMBER" describes which exact alternative artwork it is (some cards have more than one).
+    - "Alt Txt NUMBER" describes the iteration of different effect text.
 - Japanse artwork shown on English text cards has been renamed to "Uncensored". These usually from official Asian-English sets.
 - Duplicate cards have been removed. If possible, cards with better readability have been kept.
 
@@ -42,8 +44,10 @@ The following changes have been made to improve existing and upcoming alternativ
 | Ancient Gear Knight (B) | Ancient Gear Knight |
 | Ape Fighter (B) | Ape Fighter |
 | Autonomus Action Unit (B) | Autonomous Action Unit |
+| Axe of Despair (B) | Axe of Despair (Alt Txt 1) |
 | Battle Fader (B) | Battle Fader |
 | Bazoo the Soul-Eater (B) | Bazoo the Soul-Eater |
+| Beast King Barbaros (B) | Beast King Barbaros (Alt Txt 1) |
 | Big Bang Shot (B) | Big Bang Shot |
 | Big Shield Gardna (B) | Big Shield Gardna |
 | Blackwing - Zephyros the Elite (B) | Blackwing - Zephyros the Elite |
@@ -53,6 +57,7 @@ The following changes have been made to improve existing and upcoming alternativ
 | Book of Moon (B) | Book of Moon |
 | Botanical Lion (B) | Botanical Lion |
 | Call of the Haunted (B) | Call Of The Haunted |
+| Card Guard (B) | Card Guard (Alt Txt 1) |
 | Card Trooper (B) | Card Trooper |
 | Chiron the Mage (B) | Chiron the Mage |
 | Cyber Dragon (B) | Cyber Dragon |
@@ -84,6 +89,7 @@ The following changes have been made to improve existing and upcoming alternativ
 | Gilasaurus (B) | Gilasaurus |
 | Goblin Attack Force (B) | Goblin Attack Force |
 | Goblin Elite Attack Force (B) | Goblin Elite Attack Force |
+| Gogogo Golem (B) | Gogogo Golem (Alt Txt 1) |
 | Graceful Charity (B) | Graceful Charity |
 | | Gyakutenno Megami |
 | Gyakutenno Megami | Gyakutenno Megami (Alt Art 1) |
@@ -121,6 +127,7 @@ The following changes have been made to improve existing and upcoming alternativ
 | Tanngrisnir of the Nordic Beasts (B) | Tanngrisnir of the Nordic Beasts |
 | The Tricky (B) | The Tricky |
 | Toon Gemini Elf (B) | Toon Gemini Elf |
+| Treeborn Frog (B) | Treeborn Frog (Alt Txt 1) |
 | Twin-Headed Behemoth (B) | Twin-Headed Behemoth |
 | Twin-Sword Marauder (B) | Twin-Sword Marauder |
 | White Night Dragon (B) | White Night Dragon |
