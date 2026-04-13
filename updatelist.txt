@@ -1,4 +1,4 @@
-yugioh	03-14-26
+yugioh	04-12-26
 plugins/yugioh/plugininfo.txt	https://raw.githubusercontent.com/LukeShortCloud/yugioh-lackey-plugin/refs/heads/main/plugininfo.txt	367341
 plugins/yugioh/defaultchat.txt	https://raw.githubusercontent.com/LukeShortCloud/yugioh-lackey-plugin/refs/heads/main/defaultchat.txt	12905
 plugins/yugioh/formats.txt	https://raw.githubusercontent.com/LukeShortCloud/yugioh-lackey-plugin/refs/heads/main/formats.txt	307676
