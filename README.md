@@ -101,6 +101,8 @@ The following changes have been made to improve existing and upcoming alternativ
 | Miracle's Wake (B) | Miracle's Wake |
 | Monster Reborn (J) | Monster Reborn (Uncensored) |
 | Number 34: Terror-Byte (Alt) | Number 34: Terror-Byte (Alt Art 1) |
+| Obelisk the Tormentor | Obelisk the Tormentor (Alt Art 1) |
+| Obelisk the Tormentor (B) | Obelisk the Tormentor |
 | Pitch-Black Warwolf (B) | Pitch-Black Warwolf |
 | Pot of Duality (B) | Pot of Duality |
 | Pot of Greed (B) | Pot of Greed |
