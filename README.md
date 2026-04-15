@@ -55,8 +55,9 @@ The following changes have been made to improve existing and upcoming alternativ
 | | Blue-Eyes White Dragon |
 | Blue-Eyes White Dragon | Blue-Eyes White Dragon (Alt Art 4) |
 | Book of Moon (B) | Book of Moon |
-| Botanical Lion (B) | Botanical Lion |
-| Call of the Haunted (B) | Call Of The Haunted |
+| Botanical Lion (B) | Botanical Lion (Alt Txt 1) |
+| Call Of The Haunted | Call of the Haunted |
+| Call of the Haunted (B) | Call of the Haunted (Alt Txt 1) |
 | Card Guard (B) | Card Guard (Alt Txt 1) |
 | Card Trooper (B) | Card Trooper |
 | Chiron the Mage (B) | Chiron the Mage |
@@ -65,11 +66,11 @@ The following changes have been made to improve existing and upcoming alternativ
 | Cyber End Dragon (Alt) | Cyber End Dragon (Alt Art 1) |
 | Cyber Jar (B) | Cyber Jar |
 | Cyber Valley (B) | Cyber Valley |
-| D.D. Assailant (B) | D.D. Assailant |
+| D.D. Assailant (B) | D.D. Assailant (Alt Txt 1) |
 | Damage Gate (B) | Damage Gate |
 | Dark Magician of Chaos (B) | Dark Magician of Chaos |
 | Dark Resonator (B) | Dark Resonator |
-| Dark Valkyria (B) | Dark Valkyria |
+| Dark Valkyria (B) | Dark Valkyria (Alt Txt 1) |
 | Des Mosquito (B) | Des Mosquito |
 | Doomcaliber Knight (B) | Doomcaliber Knight |
 | Drillroid (B) | Drillroid |
@@ -78,13 +79,13 @@ The following changes have been made to improve existing and upcoming alternativ
 | Elemental HERO Burstinatrix (Alt) | Elemental HERO Burstinatrix (Alt Art 1) |
 | Elemental HERO Sparkman (Alt) | Elemental HERO Sparkman (Alt Art 1) |
 | Enemy Controller (B) | Enemy Controller |
-| Exarion Universe (B) | Exarion Universe |
-| Fiend's Sanctuary (B) | Fiend's Sanctuary |
+| Exarion Universe (B) | Exarion Universe (Alt Txt 1) |
+| Fiend's Sanctuary (B) | Fiend's Sanctuary (Alt Txt 1) |
 | Fighting Spirit (B) | Fighting Spirit |
 | Foolish Burial (J) | Foolish Burial (Uncensored) |
 | Forbidden Chalice (B) | Forbidden Chalice |
 | Forbidden Lance (B) | Forbidden Lance |
-| Fortress Warrior (B) | Fortress Warrior |
+| Fortress Warrior (B) | Fortress Warrior (Alt Txt 1) |
 | Gene-Warped Warwolf (B) | Gene-Warped Warwolf |
 | Gilasaurus (B) | Gilasaurus |
 | Goblin Attack Force (B) | Goblin Attack Force |
@@ -114,7 +115,7 @@ The following changes have been made to improve existing and upcoming alternativ
 | Pot of Greed (B) | Pot of Greed |
 | Power Frame (B) | Power Frame |
 | Power Giant (B) | Power Giant |
-| Premature Burial (B) | Premature Burial |
+| Premature Burial (B) | Premature Burial (Alt Txt 1) |
 | Prideful Roar (B) | Prideful Roar |
 | Reckless Greed (B) | Reckless Greed |
 | | Red-Eyes B. Dragon |
