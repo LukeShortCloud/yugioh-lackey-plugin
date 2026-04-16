@@ -2,6 +2,12 @@
 
 This is a modern fork of the original [Yu-Gi-Oh! plugin for LackeyCCG](https://lackeyccg.com/yugioh/) that was last updated in 2013.
 
+AutoUpdate URL:
+
+```
+https://raw.githubusercontent.com/LukeShortCloud/yugioh-lackey-plugin/refs/heads/main/updatelist.txt
+```
+
 ----
 
 **TABLE OF CONTENTS**
