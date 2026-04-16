@@ -150,60 +150,62 @@ Existing decks will continue to work as-is with the changes listed here.
 
 #### Case-Sensitive File Names
 
-The following card images have been renamed to work on Linux and macOS where case-sensitive file systems are used:
-- AftertheStruggle.jpg
-- ArcanaForceExTheDarkRuler.jpg
-- ArcanaForceExTheLightRuler.jpg
-- AttackAndReceive.jpg
-- AttackReflectorUnit.jpg
-- BarrelBehindTheDoor.jpg
-- BeastOfTalwar.jpg
-- BeastStriker.jpg
-- BehemoththeKingofallAnimals.jpg
-- BlastHeldByaTribute.jpg
-- CallOfTheHaunted1.jpg
-- CallOfTheHaunted2.jpg
-- CeaseFire.jpg
-- DZWChimeraClad.jpg
-- DarkScorpionMeanaeTheThorn1.jpg
-- DefenderTheMagicalKnight.jpg
-- EarthboundImmortalAsllaPiscu.jpg
-- EndymionTheMasterMagician.jpg
-- ExileofTheWicked.jpg
-- ExxodMasteroftheGuard.jpg
-- FiendsHandMirror.jpg
-- FruitsofKozakysStudies.jpg
-- GaiatheFierceKnight1.jpg
-- GammaTheMagnetWarrior1.jpg
-- GearfriedTheIronKnight.jpg
-- GoblinoutoftheFryingPan.jpg
-- GokaThePyreofMalice.jpg
-- HardSellinGoblin.jpg
-- HardSellinZombie.jpg
-- HelpingRoboForCombat2.jpg
-- InvitationToADarkSleep.jpg
-- LightOfIntervention.jpg
-- MadolcheChickolates.jpg
-- NinKenDog.jpg
-- ObelisktheTormentor3.jpg
-- OneForOne.jpg
-- QueensBodyguard.jpg
-- RainOfMercy.jpg
-- RedArcheryGirl.jpg
-- SephylontheUltimateTimeLord1.jpg
-- ShadowOfEyes.jpg
-- SoulsOfTheForgotten.jpg
-- TheDragonDwellingInTheCave.jpg
-- TheEyeOfTruth.jpg
-- TheGiftOfGreed.jpg
-- TheRegulationOfTribe.jpg
-- TourGuidefromtheUnderworld1.jpg
-- TributetoTheDoomed1.jpg
-- UnleashyourPower.jpg
-- WattKid.jpg
-- WhirlwindWeasel.jpg
-- WindEffigy.jpg
-- YellowGadget1.jpg
-- ZubabaBuster.jpg
-- falchionb.jpg
-- synchrodeflector.jpg
+The following card images have been renamed to work on Linux and macOS where case-sensitive file systems are used.
+
+| Card Name |
+| --------- |
+| After the Struggle |
+| Arcana Force Ex - The Dark Ruler |
+| Arcana Force Ex - The Light Ruler |
+| Attack And Receive |
+| Attack Reflector Unit |
+| Barrel Behind The Door |
+| Beast Of Talwar |
+| Beast Striker |
+| Behemoth the King of all Animals |
+| Blast Held By a Tribute |
+| Call of the Haunted |
+| CeaseFire |
+| DZW - Chimera Clad |
+| Dark Scorpion - Meanae The Thorn |
+| Defender, The Magical Knight |
+| Earthbound Immortal Aslla Piscu |
+| Endymion, The Master Magician |
+| Exile of The Wicked |
+| Exxod, Master of the Guard |
+| Falchion Beta |
+| Fiend's Hand Mirror |
+| Fruits of Kozaky's Studies |
+| Gaia the Fierce Knight |
+| Swift Gaia the Fierce Knight |
+| Gamma The Magnet Warrior |
+| Gearfried The Iron Knight |
+| Goblin out of the Frying Pan |
+| Goka, The Pyre of Malice |
+| Hard-Sellin' Goblin |
+| Hard-Sellin' Zombie |
+| Invitation To A Dark Sleep |
+| Light Of Intervention |
+| Madolche Chickolates |
+| Nin-Ken Dog |
+| Obelisk the Tormentor |
+| One For One |
+| Queen's Bodyguard |
+| Rain Of Mercy |
+| Red Archery Girl |
+| Sephylon, the Ultimate Time Lord |
+| Shadow Of Eyes |
+| Souls Of The Forgotten |
+| Synchro Deflector |
+| The Dragon Dwelling In The Cave |
+| The Eye Of Truth |
+| The Gift Of Greed |
+| The Regulation Of Tribe |
+| Tour Guide from the Underworld |
+| Tribute to The Doomed |
+| Unleash your Power |
+| Wattkid |
+| Whirlwind Weasel |
+| Wind Effigy |
+| Yellow Gadget |
+| Zubaba Buster |
