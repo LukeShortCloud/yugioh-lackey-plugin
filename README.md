@@ -2,11 +2,18 @@
 
 This is a modern fork of the original [Yu-Gi-Oh! plugin for LackeyCCG](https://lackeyccg.com/yugioh/) that was last updated in 2013.
 
-AutoUpdate URL:
+Installation:
 
-```
-https://raw.githubusercontent.com/LukeShortCloud/yugioh-lackey-plugin/refs/heads/main/updatelist.txt
-```
+- Copy this AutoUpdate URL.
+    ```
+    https://raw.githubusercontent.com/LukeShortCloud/yugioh-lackey-plugin/refs/heads/main/updatelist.txt
+    ```
+- [Download and extract the latest LackeyCCG game engine](https://lackeyccg.com/).
+- Launch "LackeyCCG.app" for macOS or "LackeyCCG.exe" for Windows.
+- Go to the "Plugins" tab at the top.
+- Select "Paste the AutoUpdate URL:".
+- Select "Install or Update from URL!".
+- Go to the "[Deck Editor](https://www.youtube.com/watch?v=nGrXYpPCxV4)" tab at the top to get started with the plugin.
 
 This project is for educational and research purposes only. For physical cards, we recommend supporting your [local game stores](https://www.yugioh-card.com/eu/play/store-locator/). For video games, we recommend the following for different purposes.
 
