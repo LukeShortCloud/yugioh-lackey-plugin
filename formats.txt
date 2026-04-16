@@ -253,7 +253,4 @@
 	<set>YAP1-Alt</set>
 </format>
 
-<format><label>Unreleased</label>
-</format>
-
 </formatdefinitions>
