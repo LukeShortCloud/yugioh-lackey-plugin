@@ -34,7 +34,7 @@ The following changes have been made to improve existing and upcoming alternativ
 - New standard for naming conventions.
     - "Alt Art NUMBER" describes which exact alternative artwork it is (some cards have more than one).
     - "Alt Txt NUMBER" describes the iteration of different effect text.
-- Japanse artwork shown on English text cards has been renamed to "Uncensored". These usually from official Asian-English sets.
+- Japanse artwork shown on English text cards has been renamed to "Uncensored". These are usually from official Asian-English sets.
 - Duplicate cards have been removed. If possible, cards with better readability have been kept.
 
 | Old Card Name | New Card Name |
