@@ -4,16 +4,31 @@ This is a modern fork of the original [Yu-Gi-Oh! plugin for LackeyCCG](https://l
 
 Installation:
 
-- Copy this AutoUpdate URL.
-    ```
-    https://raw.githubusercontent.com/LukeShortCloud/yugioh-lackey-plugin/refs/heads/main/updatelist.txt
-    ```
-- [Download and extract the latest LackeyCCG game engine](https://lackeyccg.com/).
-- Launch "LackeyCCG.app" for macOS or "LackeyCCG.exe" for Windows.
-- Go to the "Plugins" tab at the top.
-- Select "Paste the AutoUpdate URL:".
-- Select "Install or Update from URL!".
-- Go to the "[Deck Editor](https://www.youtube.com/watch?v=nGrXYpPCxV4)" tab at the top to get started with the plugin.
+- Online (recommended):
+
+    - Copy this AutoUpdate URL.
+        ```
+        https://raw.githubusercontent.com/LukeShortCloud/yugioh-lackey-plugin/refs/heads/main/updatelist.txt
+        ```
+    - [Download and extract the latest LackeyCCG game engine](https://lackeyccg.com/).
+    - Launch "LackeyCCG.app" for macOS or "LackeyCCG.exe" for Windows.
+    - Go to the "Plugins" tab at the top.
+    - Select "Paste the AutoUpdate URL:".
+    - Select "Install or Update from URL!".
+    - Go to the "[Deck Editor](https://www.youtube.com/watch?v=nGrXYpPCxV4)" tab at the top to get started with the plugin.
+
+- Offline:
+
+    - Find the latest [tagged release](https://github.com/LukeShortCloud/yugioh-lackey-plugin/tags) and then download the ZIP archive.
+    - [Download and extract the latest LackeyCCG game engine](https://lackeyccg.com/).
+    - Move the "yugioh-lackey-plugin-YYYY-MM-DD" ZIP archive to "LackeyCCGMac/plugins/" for macOS or "LackeyCCG/plugins/" for Windows.
+    - Extract the ZIP archive.
+    - Launch "LackeyCCG.app" for macOS or "LackeyCCG.exe" for Windows.
+    - Go to the "Plugins" tab at the top.
+    - Select "Browse installed plugins to load one...".
+    - Select "yugioh-lackey-plugin-YYYY-MM-DD".
+    - Select "Choose".
+    - Go to the "[Deck Editor](https://www.youtube.com/watch?v=nGrXYpPCxV4)" tab at the top to get started with the plugin.
 
 This project is for educational and research purposes only. For physical cards, we recommend supporting your [local game stores](https://www.yugioh-card.com/eu/play/store-locator/). For video games, we recommend the following for different purposes.
 
@@ -31,6 +46,7 @@ This project is for educational and research purposes only. For physical cards, 
     - [Breaking Changes](#breaking-changes)
         - [Existing Alternative Artwork](#existing-alternative-artwork)
     - [Non-Breaking Changes](#non-breaking-changes)
+        - [Offline Support](#offline-support)
         - [Case-Sensitive File Names](#case-sensitive-file-names)
 
 
@@ -161,6 +177,11 @@ The following changes have been made to improve existing and upcoming alternativ
 ### Non-Breaking Changes
 
 Existing decks will continue to work as-is with the changes listed here.
+
+
+#### Offline Support
+
+Compared to the plugin from [cereemo](https://github.com/cereemo/yugioh-lackey-plugin), we have added back offline support. This plugin can be downloaded and used as-is.
 
 
 #### Case-Sensitive File Names
