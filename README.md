@@ -45,6 +45,7 @@ This project is for educational and research purposes only. For physical cards, 
 - [Changes](#changes)
     - [Breaking Changes](#breaking-changes)
         - [Existing Alternative Artwork](#existing-alternative-artwork)
+        - [Change Log](#change-log)
     - [Non-Breaking Changes](#non-breaking-changes)
         - [Offline Support](#offline-support)
         - [Case-Sensitive File Names](#case-sensitive-file-names)
@@ -73,6 +74,8 @@ The following changes have been made to improve existing and upcoming alternativ
     - "Alt Txt NUMBER" describes the iteration of different effect text.
 - Japanse artwork shown on English text cards has been renamed to "Uncensored". These are usually from official Asian-English sets.
 - Duplicate cards have been removed. If possible, cards with better readability have been kept.
+
+#### Change Log
 
 | Old Card Name | New Card Name |
 | ------------- | ------------- |
