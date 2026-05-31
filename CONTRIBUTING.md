@@ -23,6 +23,7 @@ Downloading card images:
 - Use [YGOPRODeck](https://ygoprodeck.com/) to "Search" for the card name.
     - Example: [Blue-Eyes White Dragon main page](https://ygoprodeck.com/card/blue-eyes-white-dragon-7485).
 - Select "Image (.jpg)" to open the full card image.
+    - Example: [Blue-Eyes White Dragon image page](https://images.ygoprodeck.com/images/cards/89631139.jpg).
 - Right-click to download it.
 - The resolution of all cards from YGOPRODeck is 813 x 1185. This is too large for LackeyCCG. Resize it half of the resolution (407 x 593).
     - Linux and macOS: `$ magick ~/Downloads/<DOWNLOADED_FILE_NAME>.jpg -resize 50% ~/Downloads/<CARD_NAME>.jpg`
