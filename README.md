@@ -36,6 +36,7 @@ This project is for educational and research purposes only. For physical cards, 
 
 | Video Game | Release Year | Free | Description |
 | ---------- | ------------ | ---- | ----------- |
+| [Yu-Gi-Oh! Duel Links](https://www.konami.com/yugioh/duel_links/en/) | 2017 | Yes | A free-to-play game that has simplified rules [similar to the Speed Duel format](https://www.reddit.com/r/yugioh/comments/ya7zku/duel_links_vs_speed_duel_differences/). |
 | [Yu-Gi-Oh! Legacy of the Duelist: Link Evolution](https://www.konami.com/yugioh/lotd_le/us/en/) | 2019 | No | Campaigns for playing through all the duels from the Duel Monsters through VRAINS TV shows. |
 | [Yu-Gi-Oh! Master Duel](https://www.konami.com/yugioh/masterduel/us/en/) | 2022 | Yes | Newest free-to-play game. |
 | [Yu-Gi-Oh! Early Days Collection](https://www.konami.com/yugioh/earlydayscollection/us/en/) | 2025 | No | All of the classic games. |
