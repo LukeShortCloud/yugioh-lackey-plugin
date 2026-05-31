@@ -32,7 +32,7 @@ Installation:
     - Select "Choose".
     - Go to the "[Deck Editor](https://www.youtube.com/watch?v=nGrXYpPCxV4)" tab at the top to get started with the plugin.
 
-This project is for educational and research purposes only. For physical cards, we recommend supporting your [local game stores](https://www.yugioh-card.com/eu/play/store-locator/). For video games, we recommend the following for different purposes.
+This project is for educational and research purposes only. For physical cards, we recommend supporting your [local game stores](https://www.yugioh-card.com/eu/play/store-locator/) or [online game stores on TCGPlayer](https://www.tcgplayer.com/search/yugioh/product). For video games, we recommend the following for different purposes.
 
 | Video Game | Release Year | Free | Description |
 | ---------- | ------------ | ---- | ----------- |
