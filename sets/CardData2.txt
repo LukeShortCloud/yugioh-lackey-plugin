@@ -1,5 +1,4 @@
 Name	Set	ImageFile	Type	Attribute	Level	ATK	DEF	Rarity	Format	Text
-Pendulum Machine	GLD4	PendulumMachine	Machine	Dark	6	1750	2000			A horrible torture machine with a large pendulum blade.
 Bone Crusher	GLD5	BoneCrusher1	Zombie/Effect	Earth	4	1600	200			When this card is Special Summoned from your Graveyard by the effect of a Zombie-Type monster: You can target 1 Spell/Trap Card your opponent controls; destroy that target. During the End Phase of the turn this card was Special Summoned: Destroy it.
 Book of Life	GLD5	BookofLife1	Normal Spell							Target 1 Zombie-Type monster in your Graveyard and 1 monster in your opponent's Graveyard; Special Summon the first target, also banish the second target.
 Brionac, Dragon of the Ice Barrier	GLD5	BrionacDragonoftheIceBarrier1	Sea Serpent/Synchro/Effect	Water	6	2300	1400		A0/T1	1 Tuner + 1 or more non-Tuner monsters. You can discard any number of cards to the Graveyard to target the same number of cards on the field; return those targets to the hand.
