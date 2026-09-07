@@ -1,0 +1,11 @@
+Remove the five numbered card data files now that they have been split by U.S. TCG release year into sets/CardDataTCG<year>.txt.
+<uninstall>
+
+<dateYYMMDD>260906</dateYYMMDD> The year-file split was published on this date; anyone updating from before then needs the five old numbered files removed.
+<removepath>sets/CardData1.txt</removepath>
+<removepath>sets/CardData2.txt</removepath>
+<removepath>sets/CardData3.txt</removepath>
+<removepath>sets/CardData4.txt</removepath>
+<removepath>sets/CardData5.txt</removepath>
+
+</uninstall>
