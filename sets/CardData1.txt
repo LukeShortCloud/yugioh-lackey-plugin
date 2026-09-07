@@ -1,2 +1,1 @@
 Name	Set	ImageFile	Type	Attribute	Level	ATK	DEF	Rarity	Format	Text
-Mystical Sand	AP01	MysticalSand	Rock/Fusion	Earth	6	2100	1700			"Giant Soldier of Stone" + "Ancient Elf"
