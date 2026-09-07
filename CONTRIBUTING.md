@@ -8,6 +8,7 @@
 - [Updating the Plugin Version](#updating-the-plugin-version)
 - [LackeyCCG Plugin Guide](#lackeyccg-plugin-guide)
     - [Card Data](#card-data)
+    - [Card Data File Naming](#card-data-file-naming)
 
 ## Finding Card Lists
 
@@ -108,3 +109,30 @@ Example trap card:
 ```
 Mirror Force	BP01	MirrorForce2	Normal Trap					RA2/T2	When an opponent's monster declares an attack: Destroy all Attack Position monsters your opponent controls.
 ```
+
+### Card Data File Naming
+
+Card data is stored in `sets/CardDataTCG<YEAR>.txt`, one file per U.S. TCG
+release year (currently 2002 through 2013, twelve files). The old numbered
+files (`CardData1.txt` through `CardData5.txt`) were split by this rule and
+are no longer distributed; copies already on a player's machine are removed
+on the first successful update by the plugin's `uninstall.txt`.
+
+Rules when adding a card:
+
+- **Year** is the U.S. TCG release year of the set code on the row, as
+  listed on the [Yu-Gi-Oh! Card Guide set-by-date page](https://www.yugiohcardguide.com/yugioh-sets-by-date.html).
+- **Reprints** under a different set code go in that printing's own year
+  file (both rows are kept, each in its respective file).
+- **`CardDataOCG.txt`** holds OCG-only cards. Keep U.S.-released cards out of
+  it and keep OCG-only cards out of the TCG year files.
+- **`CardData6.txt`** holds alternative-artwork cards. Do not change its
+  format without also updating the *Find Alternative Artwork Numbering*
+  section above.
+- **`uninstall.txt`** should only list files you are certain nothing else
+  needs. See the [LackeyCCG tutorial](https://lackeyccg.com/tutorialplugin.html#versioning)
+  for the exact format, and re-run `/mkupdate` (see *Updating the Plugin
+  Version*) whenever it changes.
+
+To add a card from a year that has no file yet, create
+`sets/CardDataTCG<YEAR>.txt` with the same 11-column header and the new rows.
